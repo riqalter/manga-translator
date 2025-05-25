@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['text_bubble', 'text_free']
+
+roboflow:
+  workspace: riqworld
+  project: bubble-detection-gbjon-fwla1
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/riqworld/bubble-detection-gbjon-fwla1/dataset/1

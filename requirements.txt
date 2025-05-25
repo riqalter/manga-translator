@@ -1,0 +1,8 @@
+ipykernel
+pillow
+ultralytics
+manga-ocr
+git+https://github.com/riqalter/deep-translator.git#egg=deep-translator[ai]
+fastapi
+uvicorn
+torch
